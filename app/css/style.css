@@ -117,7 +117,7 @@ font-weight: 900;
 	}
 /* Home Style */
 #tf-home{
-	background: url(../img/01.jpg);
+	background: url(../img/HamlinCreek.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -179,8 +179,8 @@ ul.about-list li span{
 }
 
 /* Team Section */
-#tf-team{
-	background: url(../img/03.jpg);
+#tf-event{
+	background: url(../img/shucking-oysters.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
