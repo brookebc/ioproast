@@ -8,6 +8,10 @@ body, html{
 	color: #5a5a5a;
 }
 
+.ptm {
+	padding-top: 20px;
+}
+
 h1{
 	text-transform: uppercase;
 }
